@@ -1,0 +1,28 @@
+{
+    "jatek":[
+        {
+            "id":1,
+            "cim":"Apex Legends",
+            "mufaj":"battle royal",
+            "ar":20000
+        },
+        {
+            "id":2,
+            "cim":"Counter Strike Global Offensive",
+            "mufaj":"shooter",
+            "ar":10000
+        },
+        {
+            "id":3,
+            "cim":"League of Legends",
+            "mufaj":"moba",
+            "ar":5000
+        },
+        {
+            "id":4,
+            "cim":"Final Fantasy XIV Online",
+            "mufaj":"mmo",
+            "ar":13000
+        }
+    ]
+}
