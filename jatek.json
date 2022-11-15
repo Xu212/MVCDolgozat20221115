@@ -4,25 +4,25 @@
             "id":1,
             "cim":"Apex Legends",
             "mufaj":"battle royal",
-            "ar":20000
+            "db":2000
         },
         {
             "id":2,
             "cim":"Counter Strike Global Offensive",
             "mufaj":"shooter",
-            "ar":10000
+            "db":1000
         },
         {
             "id":3,
             "cim":"League of Legends",
             "mufaj":"moba",
-            "ar":5000
+            "db":500
         },
         {
             "id":4,
             "cim":"Final Fantasy XIV Online",
             "mufaj":"mmo",
-            "ar":13000
+            "db":1300
         }
     ]
 }
